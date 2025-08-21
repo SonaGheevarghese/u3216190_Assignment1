@@ -1,4 +1,5 @@
-ABOUT
+ABOUT: Railway-gate-safety-system
+
 
 This project presents an automatic railway crossing safety system designed to improve both safety and traffic flow. The system operates using logic-based controls that manage the gates without the need for manual intervention.
 
