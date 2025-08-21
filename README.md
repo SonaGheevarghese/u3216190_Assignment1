@@ -13,3 +13,4 @@ The system can be implemented on hardware platforms such as Arduino or Raspberry
 - Keeps gates lowered until the train passes and tracks are clear.  
 - Prioritises safety through simple, reliable logic.  
 
+![Uploading image.png…]()
