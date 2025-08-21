@@ -1,5 +1,5 @@
-# ABOUT: Railway-Gate-Safety-System 🚂
-
+#  Railway-Gate-Safety-System 🚂
+## ABOUT:
 This project presents an automatic railway crossing safety system designed to improve both safety and traffic flow. The system operates using logic-based controls that manage the gates without the need for manual intervention.
 
 When a train is approaching the crossing or if a vehicle is still present on the tracks, the gates automatically lower to prevent accidents. They only rise once the train has fully passed and the tracks are clear, ensuring that it is completely safe for vehicles to cross.
